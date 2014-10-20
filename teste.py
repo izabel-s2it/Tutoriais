@@ -4,5 +4,3 @@
 
 # conflito izabel
 
-# conflito daniel
-
